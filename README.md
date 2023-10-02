@@ -12,11 +12,13 @@
 
  -->
 <!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="#">Guilherme</a></b>
+<h1 align="center">
+        <samp> Hey There!, I am
+                <b><a target="_blank" href="#">Guilherme</a> <img align="" width="20" height="20" src="curry-dancing.gi" alt="curry-dancing.gif"/></b>
         </samp>
-</h3>
+ 
+
+</h1>
 <p align="center"> 
   <samp>
     <a href="">「 My works 」</a>
