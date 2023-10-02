@@ -67,3 +67,8 @@
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white) 
 
+<div class="trofeu">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=uguisousa&theme=algolia)
+
+</div>
