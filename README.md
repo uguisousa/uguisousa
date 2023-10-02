@@ -30,7 +30,7 @@
       
 ## About me
  
- <img align="right" width="280" height="280" src="10_coding_dribbble.gif" alt="10_coding_dribbble.gif" />
+ <img align="right" width="200" height="200" src="10_coding_dribbble.gif" alt="10_coding_dribbble.gif" />
 
   
  ♨️ &emsp; I am constantly evolving and looking for my first job. <br/><br/>
