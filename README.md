@@ -14,18 +14,14 @@
 <!-- Intro  -->
 <h1 align="center">
         <samp> Hey There!, I am
-                <b><a target="_blank" href="#">Guilherme</a> <img align="" width="20" height="20" src="curry-dancing.gi" alt="curry-dancing.gif"/></b>
+                <b><a target="_blank" href="#">Guilherme</a> <img align="center" width="80" height="80" src="curry-dancing.gif" alt="curry-dancing.gif"/></b>
         </samp>
- 
-
 </h1>
 <p align="center"> 
   <samp>
     <a href="">「 My works 」</a>
     <br>
     「I'm a small <b>programmer<b> in constant evolution. 」
-    <br>
-    <br>
   </samp>
       <br>
 </p>
