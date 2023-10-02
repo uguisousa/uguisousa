@@ -30,7 +30,7 @@
       
 ## About me
  
- <img align="right" width="350" src="" alt="Coding gif" />
+ <img align="right" width="350" src="curry-dancing.gif" alt="curry-dancing.gif" />
 
   
  ♨️ &emsp; I am constantly evolving and looking for my first job. <br/><br/>
