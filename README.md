@@ -1,17 +1,5 @@
-<!--
-<h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
-
-<!--
-<p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
-<!-- Intro  -->
+<!--by alsiam
+- uguisousa -->
 <h1 align="center">
         <samp> Hey There!, I am
                 <b><a target="_blank" href="#">Guilherme</a> </b>
@@ -19,7 +7,7 @@
 </h1>
 <p align="center"> 
   <samp>
-    <a href="">「 My works 」</a>
+    <a href="https://github.com/uguisousa?tab=repositories">「 My works 」</a>
     <br>
     「I'm a small <b>programmer<b> in constant evolution. 」
   </samp>
@@ -42,19 +30,18 @@
 
 <p align="left">
  <a href="https://sousa.netlify.app" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="gui" />
  </a>
  <a href="https://linkedin.com/in/uguisousa" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gui"/>
  </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
- <a href="https://twitter.com/uguisousa" target="_blank">
+ 
+ </a> 
+ <a href="https://twitter.com/uguisousa_" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://instagram.com/uguisousa" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="gui" />
  </a> 
    <a href="https://discord.gg/invite/pgui" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
@@ -70,6 +57,8 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![PStouch](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 #
 
