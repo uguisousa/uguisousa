@@ -30,7 +30,7 @@
       
 ## About me
  
- <img align="right" width="280" height="280" src="curry-dancing.gif" alt="curry-dancing.gif" />
+ <img align="right" width="280" height="280" src="10_coding_dribbble.gif" alt="10_coding_dribbble.gif" />
 
   
  ♨️ &emsp; I am constantly evolving and looking for my first job. <br/><br/>
@@ -58,7 +58,7 @@
  <a href="https://instagram.com/uguisousa" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
-   <a href = "uguisousa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
+   <a href="https://discord.gg/invite/pgui" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
 ##
 </p>
