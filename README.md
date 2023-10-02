@@ -32,7 +32,7 @@
 
   
  ♨️ &emsp; I am constantly evolving and looking for my first job. <br/><br/>
- :shipit:  &emsp; I work as graphic/motion designers <br/><br/>
+ :shipit:  &emsp; I work as graphic/motion designers. <br/><br/>
  💻 &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; E-mail: uguisousa@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/uguisousa/uguisousa/issues)
