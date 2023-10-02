@@ -58,14 +58,17 @@
  </a> 
    <a href="https://discord.gg/invite/pgui" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
-##
+
 </p>
 
-  # Skills
+
+  # <h2>Skills</h2>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white) 
+
+#
 
 <div class="trofeu">
   
@@ -73,8 +76,14 @@
 
 </div>
 
-<div>
+
+
+#
+
+<h3> Statistics <b>GitHub</b> </h3> 
+
+<p aling="center">
 <a href="https://github.com/uguisousa">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=uguisousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+</p>
