@@ -29,7 +29,7 @@
 <p>
 
 <p align="left">
- <a href="guisite.netlify.app" target="blank">
+ <a href="https://guisite.netlify.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="gui" />
  </a>
  <a href="https://linkedin.com/in/uguisousa" target="_blank">
