@@ -1,9 +1,9 @@
 <!--by alsiam
 - uguisousa -->
 <h1 align="center">
-        <samp> Hey There!, I am
+         Hey There! , I am
                 <b><a target="_blank" href="#">Guilherme</a> </b>
-        </samp>
+        
 </h1>
 
       
