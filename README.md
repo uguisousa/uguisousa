@@ -4,9 +4,9 @@
 
 <a  href="https://github.com/uguisousa">
 <p>
-<img aling="left" loading="lazy"  height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&layout=compact&langs_count=7&theme=dracula"/>
-</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uguisousa&show_icons=true&locale=en&layout=compact" alt="uguisousa" /></p>
+</p>
+
 
 
 
