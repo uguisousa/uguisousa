@@ -6,8 +6,8 @@
       
 
 <p>
-<a href="https://github.com/uguisousa">
-<img  aling="center" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&layout=compact&langs_count=7&theme=dracula"/>
+<a  aling="center"href="https://github.com/uguisousa">
+<img   loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 
