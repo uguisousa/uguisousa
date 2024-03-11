@@ -1,13 +1,9 @@
-<!--by alsiam
-- uguisousa -->
-<h1 align="center">
-         Hey There! , I am
-                <b><a target="_blank" href="#">Guilherme</a> </b>
+<!--by uguisousa -->
+<h1 align="center"> Hey There! , I am <b><a target="_blank" href="#">Guilherme</a> </b>
         
 </h1>
 
       
-<h3> Statistics <b>GitHub</b> </h3> 
 
 <p aling="center">
 <a href="https://github.com/uguisousa">
