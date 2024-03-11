@@ -11,8 +11,6 @@
  
  <img align="right" width="200" height="200" src="10_coding_dribbble.gif" alt="10_coding_dribbble.gif" />
 
-
-- 🌱  Às vezes, realizo trabalhos de design gráfico também. <br/>
 - 💻 Atualmente, estou aprendendo um pouco mais sobre a linguagem python, frameworks web e outras ferramentas.<br/>
 - 📧 E-mail: uguisousa@gmail.com<br/>
 </p>
