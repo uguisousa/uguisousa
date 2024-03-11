@@ -6,13 +6,6 @@
 
 <a  href="https://github.com/uguisousa">
 <br>
-<div align="center">
-  <img src="./images/divider2.png" alt="divider"/>
-</div>
-
-
-
-
 
 - 💻 Atualmente, estou aprendendo um pouco mais sobre a linguagem python, frameworks web e outras ferramentas.<br/>
 - 📧 E-mail: uguisousa@gmail.com<br/>
