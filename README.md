@@ -29,10 +29,7 @@
  <p><img src="https://github-profile-trophy.vercel.app/?username=uguisousa&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/></p>                                                             
 </div>
 
-   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
-  
+ <p><img src="https://github-profile-trophy.vercel.app/?username=RafaRz76Dev&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/></p>  
 
 </p>
 
