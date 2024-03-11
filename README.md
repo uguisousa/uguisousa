@@ -6,6 +6,7 @@
 <p>
 <img aling="left" loading="lazy"  height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&layout=compact&langs_count=7&theme=dracula"/>
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uguisousa&layout=true&locale=en" alt="cleytonjesus07" /></p>
 
 
 - 💻 Atualmente, estou aprendendo um pouco mais sobre a linguagem python, frameworks web e outras ferramentas.<br/>
@@ -26,5 +27,5 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cleytonjesus07&" alt="cleytonjesus07" /></p>
+
 
