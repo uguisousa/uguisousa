@@ -6,7 +6,8 @@
 <p>
 <img aling="left" loading="lazy"  height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&layout=compact&langs_count=7&theme=dracula"/>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uguisousa&layout=true&locale=en" alt="cleytonjesus07" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uguisousa&show_icons=true&locale=en&layout=compact" alt="uguisousa" /></p>
+
 
 
 - 💻 Atualmente, estou aprendendo um pouco mais sobre a linguagem python, frameworks web e outras ferramentas.<br/>
