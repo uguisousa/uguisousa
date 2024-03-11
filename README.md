@@ -5,14 +5,7 @@
                 <b><a target="_blank" href="#">Guilherme</a> </b>
         </samp>
 </h1>
-<p align="center"> 
-  <samp>
- 
-    <br>
-    「I'm a small <b>programmer<b> in constant evolution. 」
-  </samp>
-      <br>
-</p>
+
       
 ## About me
  
