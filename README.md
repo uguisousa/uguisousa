@@ -19,10 +19,10 @@
  <img align="right" width="200" height="200" src="10_coding_dribbble.gif" alt="10_coding_dribbble.gif" />
 
   
- ♨️ &emsp; I am constantly evolving and looking for my first job. <br/><br/>
- :shipit:  &emsp; I work as graphic/motion designers <br/><br/>
- 💻 &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; E-mail: uguisousa@gmail.com<br/><br/>
+ ♨️ &emsp; I am constantly evolving and looking for my first job. <br/>
+ :shipit:  &emsp; I work as graphic/motion designers <br/>
+ 💻 &emsp; Love to writing code and learning new features<br/>
+ 📧 &emsp; E-mail: uguisousa@gmail.com<br/>
  💬 &emsp; Ask me about anything [here](https://github.com/uguisousa/uguisousa/issues)
 
 </p>
@@ -72,5 +72,4 @@
 <p aling="center">
 <a href="https://github.com/uguisousa">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=uguisousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </p>
