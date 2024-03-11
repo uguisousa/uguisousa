@@ -20,7 +20,10 @@
  <a href="https://instagram.com/uguisousa" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="gui" />
  </a> 
-   
+
+   <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
   
 
 </p>
