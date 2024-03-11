@@ -1,12 +1,8 @@
 <!--by uguisousa -->
-<h1 align="center"> Hey There! , I am <b><a target="_blank" href="#">Guilherme</a> </b>
+<h1 align="center"> Hey There! , I am <b><a target="_blank" href="#">Guilherme</a></b></h1>
         
-</h1>
-
-      
-
-<p>
-<a  aling="center"href="https://github.com/uguisousa">
+ <p>
+<a  href="https://github.com/uguisousa">
 <img   loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
