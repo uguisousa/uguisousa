@@ -7,7 +7,7 @@
 </h1>
 <p align="center"> 
   <samp>
-    <a href="https://github.com/uguisousa?tab=repositories">「 My works 」</a>
+ 
     <br>
     「I'm a small <b>programmer<b> in constant evolution. 」
   </samp>
@@ -18,26 +18,18 @@
  
  <img align="right" width="200" height="200" src="10_coding_dribbble.gif" alt="10_coding_dribbble.gif" />
 
-  
-- ♨️ &emsp;I am constantly evolving and looking for my first job. <br/>
-- :shipit:  &emsp;I work as graphic/motion designers <br/>
-- 💻 &emsp;Atualmente, estou aprendendo um pouco mais sobre a linguagem python, frameworks web e outras ferramentas.<br/>
-- 📧 &emsp;E-mail: uguisousa@gmail.com<br/>
+
+- 🌱  Às vezes, realizo trabalhos de design gráfico também. <br/>
+- 💻 Atualmente, estou aprendendo um pouco mais sobre a linguagem python, frameworks web e outras ferramentas.<br/>
+- 📧 E-mail: uguisousa@gmail.com<br/>
 </p>
 <p>
 
 <p align="left">
- <a href="https://guisite.netlify.app/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="gui" />
- </a>
  <a href="https://linkedin.com/in/uguisousa" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gui"/>
  </a>
  
- </a> 
- <a href="https://twitter.com/uguisousa_" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
  <a href="https://instagram.com/uguisousa" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="gui" />
  </a> 
