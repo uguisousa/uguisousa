@@ -21,7 +21,7 @@
   
 - ♨️ &emsp;I am constantly evolving and looking for my first job. <br/>
 - :shipit:  &emsp;I work as graphic/motion designers <br/>
-- 💻 &emsp;Love to writing code and learning new features<br/>
+- 💻 &emsp;Atualmente, estou aprendendo um pouco mais sobre a linguagem python, frameworks web e outras ferramentas.<br/>
 - 📧 &emsp;E-mail: uguisousa@gmail.com<br/>
 </p>
 <p>
