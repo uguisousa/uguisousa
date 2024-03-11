@@ -24,7 +24,7 @@
  <a href="https://instagram.com/uguisousa" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="gui" />
  </a> 
-   <a href="https://discord.gg/invite/pgui" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+   
   
 
 </p>
