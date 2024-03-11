@@ -62,11 +62,6 @@
 
 #
 
-<div class="trofeu">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=uguisousa&theme=algolia)
-
-</div>
 
 
 
