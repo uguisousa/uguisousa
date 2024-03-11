@@ -6,9 +6,14 @@
         
 </h1>
 
-      
+   <div aling="center">   
+<h3> Statistics <b>GitHub</b> </h3> 
 
-
+<p aling="center">
+<a href="https://github.com/uguisousa">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+</div>
 
 - 💻 Atualmente, estou aprendendo um pouco mais sobre a linguagem python, frameworks web e outras ferramentas.<br/>
 - 📧 E-mail: uguisousa@gmail.com<br/>
@@ -47,9 +52,4 @@
 
 #
 
-<h3> Statistics <b>GitHub</b> </h3> 
 
-<p aling="center">
-<a href="https://github.com/uguisousa">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&layout=compact&langs_count=7&theme=dracula"/>
-</p>
