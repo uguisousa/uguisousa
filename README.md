@@ -1,8 +1,6 @@
 <!--by uguisousa -->
 <h1 align="center"> Hey There! , I am <b><a target="_blank" href="#">Guilherme</a></b></h1>
-        <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
-</div>
+        
 
 <a  href="https://github.com/uguisousa">
 <br>
