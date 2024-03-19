@@ -9,7 +9,7 @@
 <a  href="https://github.com/uguisousa">
 <br>
 
-- 💻 Atualmente, estou aprendendo um pouco mais sobre a linguagem python, frameworks web e outras ferramentas.<br/>
+- 💻 Atualmente, estou aprendendo um pouco mais sobre a linguagem Js, frameworks web e outras ferramentas.<br/>
 - 📧 E-mail: uguisousa@gmail.com<br/>
 </p>
 <p>
