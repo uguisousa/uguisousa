@@ -23,5 +23,7 @@
    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="gui" />
   </a> 
  
- 
+ <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img height=159 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=uguisousa&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000009#gh-dark-mode-only" alt="uguisousa Language stats" />
+        </a>
 
