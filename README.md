@@ -5,7 +5,7 @@
        Hey There! , I am <b><a target="_blank" href="#">Guilherme</a>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
    </h1>
-         
+</div>
  
  <a  href="https://github.com/uguisousa">
  <br>
@@ -29,4 +29,4 @@
  <img height=159 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=uguisousa&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=github_dark&bg_color=000009#gh-dark-mode-only" alt="uguisousa Language stats" />
  </a>
  </div>
-</div>
+
