@@ -20,9 +20,6 @@
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gui"/>
   </a>
   
-  <a href="https://instagram.com/uguisousa" target="_blank">
-   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="gui" />
-  </a> 
  <div>
      
  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
