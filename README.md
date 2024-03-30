@@ -2,7 +2,7 @@
 <div align="center">
 <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-       Hey There! , I am <b><a target="_blank" href="#">Guilherme</a>
+       Ei! , eu sou o<b><a target="_blank" href="#">Guilherme</a>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
    </h1>
 </div>
