@@ -5,6 +5,7 @@ Sou estudante de <b>Análise e Desenvolvimento de Sistemas.</b> Atualmente, esto
 
 [![Linkedin](https://img.shields.io/badge/-linkedin-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/uguisousa/)
 [![Instagram](https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/in/uguisousa/)
+[![Gmail](https://img.shields.io/badge/-gmail-black?style=for-the-badge&logo=gmail)](mailto:uguisousa@gmail.com)
 [![Site](https://img.shields.io/badge/-site-black?style=for-the-badge&logo=Google)](https://www.guisousa.site)
 
 
