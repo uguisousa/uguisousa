@@ -5,7 +5,7 @@ Sou estudante de <b>Análise e Desenvolvimento de Sistemas.</b> Atualmente, esto
 
 [![Linkedin](https://img.shields.io/badge/-linkedin-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/uguisousa/)
 [![Instagram](https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/in/uguisousa/)
-[![Instagram](https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=HTML)](https://www.instagram.com/in/uguisousa/)
+[![Instagram](https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=https://cdn.pixabay.com/photo/2016/11/30/17/10/web-1873373_1280.png)](https://www.instagram.com/in/uguisousa/)
 
 <hr>
 
