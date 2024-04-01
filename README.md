@@ -4,7 +4,7 @@ Sou estudante de <b>Análise e Desenvolvimento de Sistemas.</b> Atualmente, esto
 </blockquote>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&hide_progress=true&title_name=Languages&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&hide_progress=true&hide_title=true&theme=dark&hide_border=true)
 
 
 
