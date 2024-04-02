@@ -4,9 +4,10 @@ Sou estudante de <b>Análise e Desenvolvimento de Sistemas.</b> Atualmente, esto
 </blockquote>
 <br>
 
-<span>
+<div>
 Sinta-se à vontade para explorar e aprender mais sobre mim e meus projetos. Se você tiver alguma dúvida ou quiser entrar em contato, não hesite em me enviar uma mensagem.
-</span>
+</div>
+
 [![Linkedin](https://img.shields.io/badge/-linkedin-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/uguisousa/)
 [![Instagram](https://img.shields.io/badge/-instagram-black?style=for-the-badge&logo=Instagram)](https://www.instagram.com/in/uguisousa/)
 [![Discord](https://img.shields.io/badge/-pgui-black?style=for-the-badge&logo=Discord)](#)
