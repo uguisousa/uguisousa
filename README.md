@@ -15,7 +15,7 @@ Sou estudante de <b>Análise e Desenvolvimento de Sistemas.</b> Atualmente, esto
 
 <hr>
 
-## 🛠️ familiaridade:
-  [![Site](https://img.shields.io/badge/-site-black?style=for-the-badge&logo=html-logo)](https://www.guisousa.site)
+ 🛠️ familiaridade:
+ 
 
 
