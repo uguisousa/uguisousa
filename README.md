@@ -13,7 +13,9 @@ Sou estudante de <b>Análise e Desenvolvimento de Sistemas.</b> Atualmente, esto
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&hide_progress=true&custom_title=Language&theme=dark&hide_border=true&bg_color=000000)
 
+<hr>
 
-
+## 🛠️ familiaridade:
+  [![Site](https://img.shields.io/badge/-site-black?style=for-the-badge&logo=html-logo)](https://www.guisousa.site)
 
 
