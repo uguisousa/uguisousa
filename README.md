@@ -15,7 +15,6 @@ Sou estudante de <b>Análise e Desenvolvimento de Sistemas.</b> Atualmente, esto
 
 <hr>
 
- 🛠️ familiaridade:
  
 
 
