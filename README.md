@@ -3,7 +3,7 @@
 <blockquote>
 Sou estudante de <b>Análise e Desenvolvimento de Sistemas.</b> Atualmente, estou aprendendo um pouco mais sobre a <b>linguagem C</b>, frameworks web e outras ferramentas.
 </blockquote>
-<img aling="left" width="120" src="JavaScript frameworks-amico.png"></img>
+<img aling="center" width="120" src="JavaScript frameworks-amico.png"></img>
 
 <!--  <div>
 <li> Sinta-se à vontade para explorar e aprender mais sobre mim e meus projetos. Se você tiver alguma dúvida ou quiser entrar em contato, não hesite em me enviar uma mensagem.</li>
