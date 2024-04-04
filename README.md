@@ -5,7 +5,7 @@ Sou estudante de <b>Análise e Desenvolvimento de Sistemas.</b> Atualmente, esto
 </blockquote>
 
 <div aling="center">
-<img aling="center" width="120" src="linux-computer.gif></img>
+<img  width="120" src="linux-computer.gif"></img>
 </div>
 <!--  <div>
 <li> Sinta-se à vontade para explorar e aprender mais sobre mim e meus projetos. Se você tiver alguma dúvida ou quiser entrar em contato, não hesite em me enviar uma mensagem.</li>
