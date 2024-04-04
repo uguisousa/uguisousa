@@ -5,7 +5,7 @@
 Sou estudante de <b>Análise e Desenvolvimento de Sistemas.</b> Atualmente, estou aprendendo um pouco mais sobre a <b>linguagem C</b>, frameworks web e outras ferramentas.    
 </blockquote>
 
-| a | Este é um exemplo de texto que aparecerá ao lado da imagem no seu arquivo README.md. |
+| <img  width="110" src="linux-computer.gif"> | Este é um exemplo de texto que aparecerá ao lado da imagem no seu arquivo README.md. |
 |:-----------------------------------------------------:|:------------------------------------------------------:|
 
 
@@ -22,7 +22,7 @@ Sou estudante de <b>Análise e Desenvolvimento de Sistemas.</b> Atualmente, esto
 
 
 <div>
-  <p align="bottom"><img  width="110" src="linux-computer.gif"></img></p>
+  
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&hide_progress=true&custom_title=Language&theme=dark&hide_border=true&bg_color=000000)
 
