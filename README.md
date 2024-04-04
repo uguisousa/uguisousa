@@ -18,10 +18,11 @@ Sou estudante de <b>Análise e Desenvolvimento de Sistemas.</b> Atualmente, esto
 [![Site](https://img.shields.io/badge/-site-black?style=for-the-badge&logo=Google)](https://www.guisousa.site)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&hide_progress=true&custom_title=Language&theme=dark&hide_border=true&bg_color=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&hide_progress=true&custom_title=Language&theme=dark&hide_border=true&bg_color=000000)<p align=""><img  width="110" src="linux-computer.gif"></img></p>
 
 
-<p align=""><img  width="110" src="linux-computer.gif"></img></p>
+
+
  
 
 
