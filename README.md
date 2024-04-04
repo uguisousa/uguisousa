@@ -4,9 +4,9 @@
 Sou estudante de <b>Análise e Desenvolvimento de Sistemas.</b> Atualmente, estou aprendendo um pouco mais sobre a <b>linguagem C</b>, frameworks web e outras ferramentas.
 </blockquote>
 
-<div aling="center">
+<p align="left">
 <img  width="120" src="linux-computer.gif"></img>
-</div>
+</p>
 <!--  <div>
 <li> Sinta-se à vontade para explorar e aprender mais sobre mim e meus projetos. Se você tiver alguma dúvida ou quiser entrar em contato, não hesite em me enviar uma mensagem.</li>
 </div><br>
