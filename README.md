@@ -5,9 +5,6 @@
 Sou estudante de <b>Análise e Desenvolvimento de Sistemas.</b> Atualmente, estou aprendendo um pouco mais sobre a <b>linguagem C</b>, frameworks web e outras ferramentas.    
 </blockquote>
 
-| <img  width="110" src="linux-computer.gif"> |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&hide_progress=true&custom_title=Language&theme=dark&hide_border=true&bg_color=000000) |
-|:-----------------------------------------------------:|:------------------------------------------------------:|
-
 
 <!--  <div>
 <li> Sinta-se à vontade para explorar e aprender mais sobre mim e meus projetos. Se você tiver alguma dúvida ou quiser entrar em contato, não hesite em me enviar uma mensagem.</li>
@@ -21,15 +18,7 @@ Sou estudante de <b>Análise e Desenvolvimento de Sistemas.</b> Atualmente, esto
 [![Site](https://img.shields.io/badge/-site-black?style=for-the-badge&logo=Google)](https://www.guisousa.site)
 
 
-<div>
+| <img  width="110" src="linux-computer.gif"> |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&hide_progress=true&custom_title=Language&theme=dark&hide_border=true&bg_color=000000) |
+|:-----------------------------------------------------:|:------------------------------------------------------:|
+
   
-  
- 
-
-</div>
-
-
-
- 
-
-
