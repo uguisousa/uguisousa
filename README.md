@@ -16,7 +16,7 @@ Sou estudante de <b>Análise e Desenvolvimento de Sistemas.</b> Atualmente, esto
 [![Discord](https://img.shields.io/badge/-pgui-black?style=for-the-badge&logo=Discord)](#)
 [![Gmail](https://img.shields.io/badge/-gmail-black?style=for-the-badge&logo=gmail)](mailto:uguisousa@gmail.com)
 [![Site](https://img.shields.io/badge/-site-black?style=for-the-badge&logo=Google)](https://www.guisousa.site)
-<p align="right"><img  width="120" src="linux-computer.gif"></img></p>
+<p align=""><img  width="120" src="linux-computer.gif"></img></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&hide_progress=true&custom_title=Language&theme=dark&hide_border=true&bg_color=000000)
 
