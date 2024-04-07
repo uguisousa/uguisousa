@@ -2,8 +2,8 @@
 
 <table >
     <tr>
-    <img src="my_computer_animated_commission_by_wrim_d5iuujc.gif" alt="Minha Imagem" style="margin-right: 10px;">
-        <td> 
+        <td>
+             <img src="my_computer_animated_commission_by_wrim_d5iuujc.gif">
     <p>Hello, my name is Guilherme!</p>
         </td>
     </tr>
