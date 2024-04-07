@@ -2,10 +2,10 @@
 <h3>Hello, my name is Guilherme!</h3><img src="my_computer_animated_commission_by_wrim_d5iuujc.gif"></img>
 
 <table>
-    <tr>
+   
         <td>Elemento 1</td>
         <td>Elemento 2</td>
-    </tr>
+
 </table>
 
 
