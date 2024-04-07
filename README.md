@@ -3,7 +3,11 @@
 <details><summary>c l i c k</summary>
  
 ```rust
-*My favorite websites.*
-https://readme-typing-svg.demolab.com/demo/
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Olá, Mundo!");
+    }
+}
+
 ```
 </details>
