@@ -4,7 +4,7 @@
     <tr>
         <td><img src="my_computer_animated_commission_by_wrim_d5iuujc.gif"></td>
         <td>     
-   <h1>Hello, my name is Guilherme!</h1>
+   <h3>Hello, my name is Guilherme!</h3>
         </td>
     </tr>
 </table>
