@@ -11,6 +11,12 @@
 </table>
 
 
+<div style="display: flex; align-items: center;">
+  <img src="caminho/para/sua/imagem.jpg" alt="Sua imagem" style="width: 100px; height: 100px; border-radius: 50%;">
+  <p style="margin-left: 10px;">Seu parágrafo aqui.</p>
+</div>
+
+
 
 | <img  width="110" src="linux-computer.gif"> | I am a student of Analysis and Systems Development. Currently, I am learning more about the C language, web frameworks, and other tools. |
 |:-----------------------------------------------------:|:------------------------------------------------------:|
