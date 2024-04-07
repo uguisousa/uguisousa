@@ -1,9 +1,7 @@
-
-<div>
-    <img src="my_computer_animated_commission_by_wrim_d5iuujc.gif" alt="Minha Imagem">
+<div style="display: flex; align-items: center;">
+    <img src="my_computer_animated_commission_by_wrim_d5iuujc.gif" alt="Minha Imagem" style="margin-right: 10px;">
     <p>Hello, my name is Guilherme!</p>
 </div>
-
 
 <table >
     <tr>
