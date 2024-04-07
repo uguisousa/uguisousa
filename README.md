@@ -4,6 +4,6 @@
  
 ```rust
 *My favorite websites.*
-
+https://readme-typing-svg.demolab.com/demo/
 ```
 </details>
