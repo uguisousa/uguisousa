@@ -1,10 +1,10 @@
-<td>aaaaaa</td> <td>aaaaaa</td>
+<td><img src="my_computer_animated_commission_by_wrim_d5iuujc.gif"></img></td> <td>Hello, my name is Guilherme!</td>
 
 
 <table >
     <tr>
-        <td><img src="my_computer_animated_commission_by_wrim_d5iuujc.gif"></img></td>
-        <td><h1>Hello, my name is Guilherme!</h1></td>
+        <td></td>
+        <td><h1></h1></td>
     </tr>
 </table>
 
