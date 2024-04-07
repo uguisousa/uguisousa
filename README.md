@@ -2,7 +2,7 @@
 
 
 <table >
-    <tr aling="center">
+    <tr>
         <td><img src="my_computer_animated_commission_by_wrim_d5iuujc.gif"></img></td>
         <td><h1>Hello, my name is Guilherme!</h1></td>
     </tr>
