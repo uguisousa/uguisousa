@@ -2,8 +2,12 @@
 
 <table >
     <tr>
-        <td></td>
-        <td><h1></h1></td>
+        <td>
+            
+[![Discord](https://img.shields.io/badge/-pgui-black?style=for-the-badge&logo=Discord)](#)
+[![Gmail](https://img.shields.io/badge/-gmail-black?style=for-the-badge&logo=gmail)](mailto:uguisousa@gmail.com)
+[![Site](https://img.shields.io/badge/-site-black?style=for-the-badge&logo=Google)](https://www.guisousa.site)
+        </td>
     </tr>
 </table>
 
