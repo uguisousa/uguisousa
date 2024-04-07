@@ -1,10 +1,7 @@
 <!-- &copy @uguisousa 2024-->
 
-<p aling="center">
-  <div>
-  Olá, meu nome é <a href="https://github.com/uguisousa">Guilherme!</a>
-  </div>
-</p>
+<p align="center">Seu texto aqui.</p>
+
 
 <!-- <blockquote>
 Sou estudante de <b>Análise e Desenvolvimento de Sistemas.</b> Atualmente, estou aprendendo um pouco mais sobre a <b>linguagem C</b>, frameworks web e outras ferramentas.    
