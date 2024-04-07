@@ -12,4 +12,4 @@ public class Main {
 ```
 </details>
 
-<sub><samp><h3>I am a student of Systems Analysis and Development. Currently, I am learning more about the C language, web frameworks, and other tools</h3></samp></sub>
+<sub><samp><p>I am a student of Systems Analysis and Development. Currently, I am learning more about the C language, web frameworks, and other tools<p></samp></sub>
