@@ -1,4 +1,8 @@
-<td><img src="my_computer_animated_commission_by_wrim_d5iuujc.gif"></img></td> <td>Hello, my name is Guilherme!</td>
+<td><img src=""></img></td> <td></td>
+<div>
+    <img src="my_computer_animated_commission_by_wrim_d5iuujc.gif" alt="Minha Imagem">
+    <p>Hello, my name is Guilherme!</p>
+</div>
 
 
 <table >
