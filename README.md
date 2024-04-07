@@ -1,6 +1,6 @@
 <!-- &copy @uguisousa 2024-->
 
-<p align="center" font-size="40">Olá, meu nome é <a href="#">Guilherme!</a></p>
+<p align="center" width="10">Olá, meu nome é <a href="#">Guilherme!</a></p>
 
 
 <!-- <blockquote>
