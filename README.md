@@ -13,4 +13,4 @@ public class Main {
 ```
 </details>
 
-<samp>I am a student of Systems Analysis and Development. Currently, I am learning more about the C language, web frameworks, and other tools</samp>
+<sub>I am a student of Systems Analysis and Development. Currently, I am learning more about the C language, web frameworks, and other tools</sub>
