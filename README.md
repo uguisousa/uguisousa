@@ -11,10 +11,7 @@
 </table>
 
 
-<div style="display: flex; align-items: center;">
-  <img src="caminho/para/sua/imagem.jpg" alt="Sua imagem" style="width: 100px; height: 100px; border-radius: 50%;">
-  <p style="margin-left: 10px;">Seu parágrafo aqui.</p>
-</div>
+
 
 
 
