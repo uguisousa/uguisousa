@@ -3,8 +3,7 @@
 
 <table>
    
-        <td>Elemento 1</td>
-        <td>Elemento 2</td>
+       a
 
 </table>
 
