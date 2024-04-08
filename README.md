@@ -30,14 +30,7 @@ public class Main {
  <img width="13" src="my_computer_animated_commission_by_wrim_d5iuujc.gif"> <samp><b>Programming language</b></samp><br>
 </blockquote>
 
-![Badge](https://img.shields.io/badge/Html-informational?style=flat&logo=HTML5&logoColor=whitek&color=1f6feb)
-![Badge](https://img.shields.io/badge/Css-informational?style=flat&logo=CSS3&logoColor=white&color=1f6feb)
-![Badge](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=Javascript&logoColor=white&color=1f6feb)
-![Badge](https://img.shields.io/badge/Lua-informational?style=flat&logo=Lua&logoColor=white&color=1f6feb)
-![Badge](https://img.shields.io/badge/Dart-informational?style=flat&logo=Dart&logoColor=white&color=1f6feb)
 
-<img src="https://komarev.com/ghpvc/?username=uguisousa&label=Profile%20views&color=1f6feb" alt="uguisousa" />
-<br> 
 
 
 
