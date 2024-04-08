@@ -13,6 +13,7 @@ public class Main {
 ```
 <br>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?uguisousa=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <samp>I am a student of Systems Analysis and Development. Currently, I am learning more about the C language, web frameworks, and other tools</samp>
