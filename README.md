@@ -1,6 +1,6 @@
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EDEDED&random=false&width=435&lines=Hello,+my+name+is+Guilherme!)
 
-<samp><a href="">website </a></samp>. <samp><a href=""> linkedin </a></samp>. <samp><a href=""> instagram</a></samp>
+<samp><a href="">website</a></samp>. <samp><a href=""> linkedin</a></samp>. <samp><a href=""> instagram</a></samp>
 
  <hr>
 
