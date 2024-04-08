@@ -31,10 +31,10 @@ public class Main {
 
   <table>
 
-| Nome         | Idade |
+| Html         | Css |
 |--------------|-------|
-| João         | 30    |
-| Maria        | 25    |
+| Js         | C    |
+| Lua        | Java    |
 
  </table>
 </blockquote>
