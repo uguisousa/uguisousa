@@ -36,10 +36,9 @@ public class Main {
 ![Badge](https://img.shields.io/badge/Lua-informational?style=flat&logo=Lua&logoColor=black&color=ffffff)
 ![Badge](https://img.shields.io/badge/Dart-informational?style=flat&logo=Dart&logoColor=black&color=ffffff)
 
-<img src="https://komarev.com/ghpvc/?username=uguisousa&label=Profile%20views&color=1f6feb" alt="konjoinfinity" />
+<img src="https://komarev.com/ghpvc/?username=uguisousa&label=Profile%20views&color=1f6feb" alt="uguisousa" />
 <br> 
-![Badge](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=black&color=ffffff)
-![Badge](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=black&color=ffffff)
+
 
 
 
