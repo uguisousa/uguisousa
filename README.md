@@ -31,11 +31,9 @@ public class Main {
 
   <table>
 
-| ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=712cf9)   |
-|--------------|--------------------------------------------------------------------------------------------------|
-| Js           | C     |
-| Lua          | Java   |
-
+ <a href="https://github.com/uguisousa">
+<img height='315px' src="https://ssr-contributions-svg.vercel.app/_/uguisousa?chart=calendar&format=svg&weeks=10&theme=cyan&dark=true" />
+      </a>
  </table>
 </blockquote>
 
