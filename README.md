@@ -31,9 +31,9 @@ public class Main {
 
   <table>
 
- <a href="https://github.com/uguisousa">
-  <img width='425px' src="https://github-readme-streak-stats.herokuapp.com?user=uguisousa&theme=react&bg_color=20232A" />
-  </a>  
+  <a href="https://github.com/uguisousa">
+  <img width='400px' src="https://github-readme-stats.vercel.app/api?username=uguisousa&show_icons=true&count_private=true&bg_color=20232A&theme=react"  />
+</a>
  </table>
 </blockquote>
 
