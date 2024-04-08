@@ -29,13 +29,11 @@ public class Main {
 <blockquote>
  <img width="13" src="my_computer_animated_commission_by_wrim_d5iuujc.gif"> <samp><b>Programming language</b></samp><br>
 
-  ```rust
-
+  <table>
  > HTML | CSS | JS
  > PYTHON | LUA | C
  > JAVA 
-
-```
+</table>
 </blockquote>
 
 
