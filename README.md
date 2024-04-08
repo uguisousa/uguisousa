@@ -30,7 +30,13 @@ public class Main {
  <img width="13" src="my_computer_animated_commission_by_wrim_d5iuujc.gif"> <samp><b>Programming language</b></samp>
 </blockquote>
 
-[![Badge](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=Javascript&logoColor=black&color=ffffff)]
+![Badge](https://img.shields.io/badge/Html-informational?style=flat&logo=Htmlt&logoColor=black&color=ffffff)
+![Badge](https://img.shields.io/badge/Css-informational?style=flat&logo=Css&logoColor=black&color=ffffff)
+![Badge](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=Javascript&logoColor=black&color=ffffff)
+![Badge](https://img.shields.io/badge/Lua-informational?style=flat&logo=Lua&logoColor=black&color=ffffff)
+![Badge](https://img.shields.io/badge/Dart-informational?style=flat&logo=Dart&logoColor=black&color=ffffff)
+
+
 
 
 
