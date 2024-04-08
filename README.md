@@ -18,7 +18,7 @@ public class Main {
 
 
 <blockquote>
- <img width="20" src="my_computer_animated_commission_by_wrim_d5iuujc.gif">Programming language
+ <img width="20" src="my_computer_animated_commission_by_wrim_d5iuujc.gif"> **Programming language**
 </blockquote>
 
 </details>
