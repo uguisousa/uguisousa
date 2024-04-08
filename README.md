@@ -31,9 +31,9 @@ public class Main {
 
   <table>
 
-  <a href="https://github.com/uguisousa">
-  <img width='400px' src="https://github-readme-stats.vercel.app/api?username=uguisousa&show_icons=true&count_private=true&bg_color=20232A&theme=react"  />
-</a>
+ <a href="https://github.com/uguisousa">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=uguisousa&theme=react-dark&bg_color=20232A&hide=html,css,scss" />
+    </a>
  </table>
 </blockquote>
 
