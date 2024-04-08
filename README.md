@@ -6,7 +6,7 @@
 ```rust
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Seja Bem-vindo!");
+        System.out.println("Welcome!");
     }
 }
 
