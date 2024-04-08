@@ -4,7 +4,7 @@
 
  <hr>
 
-<details><summary><samp>click <img width="20" src="my_computer_animated_commission_by_wrim_d5iuujc.gif"></samp></summary>
+<details><summary><samp>click </samp></summary>
   
 ```rust
 public class Main {
@@ -16,6 +16,10 @@ public class Main {
 ```
 <br>
 
+
+<blockquote>
+ <img width="20" src="my_computer_animated_commission_by_wrim_d5iuujc.gif">Programming language
+</blockquote>
 
 </details>
 
