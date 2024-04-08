@@ -11,6 +11,8 @@ public class Main {
 }
 
 ```
+
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=uguisousa&layout=compact)](https://github.com/uguisousa/github-readme-stats)
 </details>
 
 <samp>I am a student of Systems Analysis and Development. Currently, I am learning more about the C language, web frameworks, and other tools</samp>
