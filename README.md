@@ -33,8 +33,8 @@ public class Main {
 
 | Html         | Css |
 |--------------|-------|
-| Js         | C    |
-| Lua        | Java    |
+| Js           | C     |
+| Lua          | Java   |
 
  </table>
 </blockquote>
