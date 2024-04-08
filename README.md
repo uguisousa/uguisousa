@@ -30,7 +30,7 @@ public class Main {
  <img width="13" src="my_computer_animated_commission_by_wrim_d5iuujc.gif"> <samp><b>Programming language</b></samp>
 </blockquote>
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=Javascript&logoColor=white&color=E1306C)](https://www.instagram.com/gerard_west/)
+[![Instagram Badge](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=Javascript&logoColor=white&color=E1306C)](https://www.instagram.com/gerard_west/)
 
 
 
