@@ -17,15 +17,18 @@ public class Main {
 <br>
 
 
-<blockquote>
- <img width="20" src="my_computer_animated_commission_by_wrim_d5iuujc.gif"> <b>Programming language</b>
-</blockquote>
+
 
 </details>
 
 
 <samp>I am a student of Systems Analysis and Development. Currently, I am learning more about the C language, web frameworks, and other tools</samp>
 
+<hr>
+
+<blockquote>
+ <img width="20" src="my_computer_animated_commission_by_wrim_d5iuujc.gif"> <b>Programming language</b>
+</blockquote>
 
 
 
