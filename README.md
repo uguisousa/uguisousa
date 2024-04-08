@@ -13,7 +13,7 @@ public class Main {
 ```
 <br>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?uguisousa=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?uguisousa=anuraghazra&hide_progress=true)
 
 </details>
 
