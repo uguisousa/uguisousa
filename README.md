@@ -31,8 +31,8 @@ public class Main {
 
   <table>
 
-| ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=712cf9)       | Css |
-|--------------|-------|
+| ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=712cf9)   |
+|--------------|--------------------------------------------------------------------------------------------------|
 | Js           | C     |
 | Lua          | Java   |
 
