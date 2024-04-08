@@ -31,7 +31,7 @@ public class Main {
 </blockquote>
 
 ![Badge](https://img.shields.io/badge/Html-informational?style=flat&logo=HTML5&logoColor=black&color=ffffff)
-![Badge](https://img.shields.io/badge/Css-informational?style=flat&logo=CSS&logoColor=black&color=ffffff)
+![Badge](https://img.shields.io/badge/Css-informational?style=flat&logo=CSS5&logoColor=black&color=ffffff)
 ![Badge](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=Javascript&logoColor=black&color=ffffff)
 ![Badge](https://img.shields.io/badge/Lua-informational?style=flat&logo=Lua&logoColor=black&color=ffffff)
 ![Badge](https://img.shields.io/badge/Dart-informational?style=flat&logo=Dart&logoColor=black&color=ffffff)
