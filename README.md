@@ -4,7 +4,7 @@
 
  <hr>
 
-<details><summary><samp> <img width="20" src="my_computer_animated_commission_by_wrim_d5iuujc.gif">click</img></samp></summary>
+<details><summary><samp>click <img width="20" src="my_computer_animated_commission_by_wrim_d5iuujc.gif"></samp></summary>
   
 ```rust
 public class Main {
