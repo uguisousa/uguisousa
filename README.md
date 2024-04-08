@@ -39,6 +39,9 @@ public class Main {
 ![Badge](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=Javascript&logoColor=black&color=ffffff)
 ![Badge](https://img.shields.io/badge/Lua-informational?style=flat&logo=Lua&logoColor=black&color=ffffff)
 ![Badge](https://img.shields.io/badge/Dart-informational?style=flat&logo=Dart&logoColor=black&color=ffffff)
+![Badge](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=black&color=ffffff)
+![Badge](https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=black&color=ffffff)
+
 
 
 </blockquote>
