@@ -27,7 +27,7 @@ public class Main {
 <hr>
 
 <blockquote>
- <img width="20" src="my_computer_animated_commission_by_wrim_d5iuujc.gif"> <samp><b>Programming language</b></samp>
+ <img width="10" src="my_computer_animated_commission_by_wrim_d5iuujc.gif"> <samp><b>Programming language</b></samp>
 </blockquote>
 
 
