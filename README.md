@@ -31,9 +31,7 @@ public class Main {
 
   <table>
 
- <a href="https://github.com/uguisousa">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=uguisousa&theme=react-dark&bg_color=20232A&" />
-    </a>
+
  </table>
 </blockquote>
 
