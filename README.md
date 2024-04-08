@@ -32,8 +32,8 @@ public class Main {
   <table>
 
  <a href="https://github.com/uguisousa">
-<img height='315px' src="https://ssr-contributions-svg.vercel.app/_/uguisousa?chart=calendar&format=svg&weeks=10&theme=cyan&dark=true" />
-      </a>
+  <img width='425px' src="https://github-readme-streak-stats.herokuapp.com?user=uguisousa&theme=react&bg_color=20232A" />
+  </a>  
  </table>
 </blockquote>
 
