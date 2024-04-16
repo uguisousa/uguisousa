@@ -24,7 +24,7 @@ public class Main {
 </details>
 
 
-<samp>  </samp>
+<samp> Currently, I'm learning a bit more about the C & Java languages, web frameworks, and other tools. </samp>
 
 <hr>
 
