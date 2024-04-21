@@ -4,10 +4,13 @@
    ![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EDEDED&random=false&width=435&lines=Hello,+my+name+is+Guilherme!)
 </div>
 
-  
-
+<div align="center">
 
 <samp><a href="https://guisousa.site/" target="_blank" >website</a></samp> . <samp><a href="https://www.linkedin.com/in/uguisousa/"> linkedin</a></samp> . <samp><a href="https://www.instagram.com/uguisousa"> instagram</a></samp>
+</div>
+
+
+
 
  <hr>
 
