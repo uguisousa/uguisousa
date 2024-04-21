@@ -2,7 +2,6 @@
 
 <samp><a href="https://guisousa.site/" target="_blank" >website</a></samp> . <samp><a href="https://www.linkedin.com/in/uguisousa/"> linkedin</a></samp> . <samp><a href="https://www.instagram.com/uguisousa"> instagram</a></samp>
 
-[Texto do link](URL) <img src="URL_DO_ICONE" width="30">
 
 
  <hr>
