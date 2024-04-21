@@ -44,6 +44,8 @@ public class Main {
  </table>
 </blockquote>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/645085712697262100)](https://discord.com/users/645085712697262100)
+
 
 
 
