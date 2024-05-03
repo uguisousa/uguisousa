@@ -32,7 +32,7 @@ public class Main {
 
 <samp> Currently, I'm learning a bit more about the C & Java languages, web frameworks, and other tools. </samp>
 
-<!-- <hr> -->
+<hr> 
 
 <blockquote>
  <img width="13" src="my_computer_animated_commission_by_wrim_d5iuujc.gif"> <samp><b>Programming something…</b></samp><br>
