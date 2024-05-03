@@ -43,7 +43,7 @@ public class Main {
  </table>
 </blockquote>
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<645085712697262100>)
+
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/645085712697262100)](https://discord.com/users/645085712697262100)
 
