@@ -26,6 +26,7 @@ public class Main {
 |  <img width="73" src="linux-computer.gif"></img>  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&count_private=true&layout=compact&theme=dark&langs_count=10&hide_border=true&bg_color=0000&custom_title=Languages&hide_progress=true)](https://github.com/uguisousa) |
 |-------|--------|
 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=645085712697262100)
 
 </details>
 
@@ -43,7 +44,7 @@ public class Main {
  </table>
 </blockquote>
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=645085712697262100)
+
 
 
 
