@@ -15,9 +15,10 @@
 </div>
 
 
- <hr>
 
-<details><summary><samp>click </samp></summary>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1239&height=120&section=footer"/>
+
+<details><summary><samp>info </samp></summary>
   
 ```rust
 public class Main {
@@ -50,4 +51,4 @@ public class Main {
 
 </blockquote>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1239&height=120&section=footer"/>
+
