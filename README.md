@@ -18,7 +18,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1239&height=120&section=footer"/>
 
-<details><summary><samp>info </samp></summary>
+<details><summary><samp>ᶦⁿᶠᵒ </samp></summary>
   
 ```rust
 public class Main {
