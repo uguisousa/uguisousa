@@ -10,7 +10,7 @@
    ![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EDEDED&random=false&width=435&lines=Hello,+my+name+is+Guilherme!)
 
 
-<samp><a href="https://guisousa.site/" target="_blank">🕊️Gateway</a> // </samp> <samp><a href="https://www.ogui.xyz">📍Website</a></samp>
+<samp><a href="https://guisousa.site/" target="_blank">🕊️Gateway</a> // </samp> <samp><a href="https://www.ogui.xyz">🍃Website</a></samp>
 
 </div>
 
