@@ -35,20 +35,19 @@ public class Main {
 
 <!--![My Discord](https://discord-readme-badge.vercel.app/api?id=645085712697262100) -->
 
+<samp> Currently, I'm learning a bit more about the C & Java languages, web frameworks, and other tools. </samp>
+
+ <img width="13" src="my_computer_animated_commission_by_wrim_d5iuujc.gif"> <samp><b>Programming something…</b></samp><br>
+
 </details>
 
-
-<samp> Currently, I'm learning a bit more about the C & Java languages, web frameworks, and other tools. </samp>
 
 <hr> 
 
 <blockquote>
  <img width="13" src="my_computer_animated_commission_by_wrim_d5iuujc.gif"> <samp><b>Programming something…</b></samp><br>
 
-  <table>
 
-
- </table>
 </blockquote>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1239&height=120&section=footer"/>
