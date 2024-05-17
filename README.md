@@ -7,7 +7,7 @@
 
    <div align="center">
   
-   ![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EDEDED&random=false&width=435&lines=Hello,+my+name+is+Guilherme!+:))
+   <img src="https://readme-typing-svg.demolab.com/?lines=$+Hello,+my name is+Guilherme+:)&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=10&size=22" />
 
 
 <samp><a href="https://guisousa.site/" target="_blank">🕊️Gateway</a> // </samp> <samp><a href="https://www.ogui.xyz">🍃Website</a></samp>
