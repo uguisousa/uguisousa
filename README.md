@@ -1,14 +1,14 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1c294a&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=header"/>
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=+Hello,+my name is+Guilherme+:)&font=Fira%20Code&center=true&width=440&height=45&color=3333e&vCenter=true&pause=10&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=+Hello,+my name is+Guilherme+:)&font=Fira%20Code&center=true&width=440&height=45&color=000e&vCenter=true&pause=10&size=22" />
   
   <sub><samp><a href="https://ogui.xyz"> Website </a>// <a href="https://guisousa.site">Gateway</a> // <a href="mailto:uguisousa@gmail.com"> Email</a></samp></sub>
   </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1c294a&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=footer"/>
 
 
 <details><summary><samp>click </samp></summary>
