@@ -1,14 +1,15 @@
-   <div align="">
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1c294a&height=120&section=header"/>
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=+Hello,+my name is+Guilherme+:)&font=Fira%20Code&center=true&width=440&height=45&color=3333e&vCenter=true&pause=10&size=22" />
   
-   ![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EDEDED&random=false&width=435&lines=Hello,+my+name+is+Guilherme!)
+  <sub><samp><a href="https://ogui.xyz"> Website </a>// <a href="https://guisousa.site">Gateway</a> // <a href="mailto:uguisousa@gmail.com"> Email</a></samp></sub>
+  </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1c294a&height=120&section=footer"/>
 
-<samp><a href="https://guisousa.site/" target="_blank" >website</a></samp> . <samp><a href="https://www.instagram.com/uguisousa"> instagram</a></samp>
-
-</div>
-
-
- <hr>
 
 <details><summary><samp>click </samp></summary>
   
@@ -43,13 +44,6 @@ public class Main {
 
  </table>
 </blockquote>
-
-
-
-
-
-
-
 
 
 
