@@ -7,7 +7,8 @@
 
    <div align="center">
   
-   <img src="https://readme-typing-svg.demolab.com/?lines=$+Hello,+my name is+Guilherme+:)&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=10&size=22" />
+   <img src="https://readme-typing-svg.demolab.com/?lines=$+Hello,+my%20name%20is+Guilherme+:)&font=Fira%20Code&center=true&width=440&height=45&color=0000FF&vCenter=true&pause=10&size=22
+" />
 
 
 <samp><a href="https://guisousa.site/" target="_blank">🕊️Gateway</a> // </samp> <samp><a href="https://www.ogui.xyz">🍃Website</a></samp>
