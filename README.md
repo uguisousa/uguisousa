@@ -1,1 +1,1 @@
-![Profile Views](https://profile-counter.glitch.me/uguisousa/count.svg)
+![GitHub Snake](https://github.com/uguisousa/uguisousa/blob/output/github-contribution-grid-snake.svg)
