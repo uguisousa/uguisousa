@@ -6,7 +6,7 @@
 <div>
 <img src="bt.png" width="280">
 </div>
-<hr>
+<hr width="50">
 
 
 <details><summary><samp>Click here</samp></summary>
