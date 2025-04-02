@@ -8,9 +8,9 @@
 </div>
 
 
-<hr width="100">
+<hr width="200">
 <details><summary><samp>Click here</samp></summary>
-<hr width="100">
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=$+Hello,+my%20name%20is+Guilherme+:]&font=Fira%20Code&center=true&width=440&height=45&color=f25c7e&vCenter=true&pause=10&size=22)
 
