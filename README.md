@@ -8,7 +8,7 @@
 </div>
 
 
-<hr width="200">
+<hr width="250">
 <details><summary><samp>Click here</samp></summary>
 
 
