@@ -8,7 +8,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=$+Hello,+my%20name%20is+Guilherme+:]&font=Fira%20Code&center=true&width=440&height=45&color=185ADB&vCenter=true&pause=10&size=22)
 
 
-<details><summary><samp>![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Click+here%20name%20&font=Fira%20Code&center=true&width=440&height=45&color=185ADB&vCenter=true&pause=10&size=15)</samp></summary>
+<details><summary><samp>Click here</samp></summary>
   
 ```rust
 public class Main {
