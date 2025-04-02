@@ -26,6 +26,8 @@ public class Main {
 -->
 <br>
 
+[![Website](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=Google-Chrome&logoColor=white)](https://ogui.xyz)
+
 
 |  <img width="73" src="linux-computer.gif"></img>  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&count_private=true&layout=compact&theme=dark&langs_count=10&hide_border=true&bg_color=0000&custom_title=Languages&hide_progress=true)](https://github.com/uguisousa) |
 |-------|--------|
