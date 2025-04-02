@@ -5,7 +5,7 @@
 </div>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=$+Hello,+my%20name%20is+Guilherme+:)&font=Fira%20Code&center=true&width=440&height=45&color=1238b8&vCenter=true&pause=10&size=22)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=$+Hello,+my%20name%20is+Guilherme+:)
 
 
 
