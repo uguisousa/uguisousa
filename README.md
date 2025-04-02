@@ -8,7 +8,7 @@
 
 
 
-<details><summary><samp>ᶦⁿᶠᵒ </samp></summary>
+<details><summary><samp>Click here</samp></summary>
   
 ```rust
 public class Main {
