@@ -7,8 +7,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=$+Hello,+my%20name%20is+Guilherme+:)
 
-
-
 <details><summary><samp>Click here</samp></summary>
   
 ```rust
