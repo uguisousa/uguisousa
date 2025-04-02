@@ -4,7 +4,7 @@
 </div> -->
 
 <div aling="center">
-<img src="batmanpng.png" width="280">
+<img aling="center" src="batmanpng.png" width="280">
 </div>
 
 
