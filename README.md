@@ -29,8 +29,8 @@ public class Main {
 
 
 
-   [![Website](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=Google-Chrome&logoColor=white)](https://ogui.xyz)
-   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/uguisousa)
+[![Website](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://ogui.xyz)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/uguisousa)
 
 
 
