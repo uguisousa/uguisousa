@@ -9,7 +9,7 @@
 
 
 <details><summary><samp>Click here</samp></summary>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1239&height=120&section=header"/>
+
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=$+Hello,+my%20name%20is+Guilherme+:]&font=Fira%20Code&center=true&width=440&height=45&color=8B0000&vCenter=true&pause=10&size=22)
 
   
