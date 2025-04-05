@@ -17,9 +17,9 @@
 
 
 ```rust
-## 👋 Opa
+ 👋 Opa
 
-## 🧠 Habilidades e Tecnologias
+ 🧠 Habilidades e Tecnologias
 
 - 🎨 Front-end: HTML, CSS, JavaScript, Bootstrap  
 - 🧩 Back-end: C# (iniciante), ASP.NET  
@@ -30,7 +30,7 @@
 - 🌐 Noções de hospedagem e estrutura de sites  
 - 📱 Interesse em bots para Discord, automações e interfaces web
 
-## 🚀 Em progresso
+ 🚀 Em progresso
 
 Atualmente, estou estudando mais sobre:
 - ASP.NET com banco de dados
