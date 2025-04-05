@@ -17,11 +17,26 @@
 
 
 ```rust
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Welcome!");
-    }
-}
+## 👋 Opa
+
+## 🧠 Habilidades e Tecnologias
+
+- 🎨 Front-end: HTML, CSS, JavaScript, Bootstrap  
+- 🧩 Back-end: C# (iniciante), ASP.NET  
+- 🗃️ Banco de Dados: SQL  
+- 💻 Ferramentas: Visual Studio, Eclipse, Git, GitHub  
+- 🖌️ Design Gráfico: Experiência com apps de design mobile  
+- 🐧 Linux e Windows (ambiente de desenvolvimento)  
+- 🌐 Noções de hospedagem e estrutura de sites  
+- 📱 Interesse em bots para Discord, automações e interfaces web
+
+## 🚀 Em progresso
+
+Atualmente, estou estudando mais sobre:
+- ASP.NET com banco de dados
+- JavaScript avançado e integração com APIs
+- Projetos práticos full-stack
+
 
 ```
 
