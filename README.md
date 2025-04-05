@@ -40,7 +40,7 @@ Atualmente, estou estudando mais sobre:
 
 ```
 <p align="center">
-  <img src="https://raw.githubusercontent.com/uguisousa/uguisousa/main/linux-computer.gif" width="90px"><br><br>
+
 
   <a href="https://github.com/uguisousa">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&count_private=true&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=1e1e2f&custom_title=Linguagens+Mais+Usadas" />
