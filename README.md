@@ -45,18 +45,12 @@ Atualmente, estou estudando mais sobre:
 
 
 
-<table>
-  <tr>
-    <td width="100px" align="center">
-      <img src="linux-computer.gif" width="73px">
-    </td>
-    <td>
-      <a href="https://github.com/uguisousa">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&count_private=true&layout=compact&theme=dark&langs_count=10&hide_border=true&bg_color=0000&custom_title=Languages&hide_progress=true"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="linux-computer.gif" width="90px"><br><br>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&count_private=true&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0d1117&custom_title=Linguagens+Mais+Usadas)](https://github.com/uguisousa)
+</div>
+
 
 
 
