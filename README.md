@@ -1,13 +1,13 @@
 
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+meu+nome+é+Guilherme.&font=Fira+Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=10&size=22&background=141c24" />
 </p>
 
-<p align="center">
+<p>
   <img src="bt.png" width="200" />
 </p>
 
----
+
 
 <details>
 <summary><samp>Ver habilidades e tecnologias</samp></summary>
