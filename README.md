@@ -35,7 +35,13 @@ Tenho experiência com ferramentas de versionamento, ambientes Linux e Windows, 
 
 ---
 
+## 🌐 Meu Website
+
+Site pessoal criado com inspiração no visual do **Visual Studio Code (VSCode)**.  
+Clique abaixo para visitar:
+
 [![Website](https://img.shields.io/badge/-Website-141c24?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://ogui.xyz)
+
 
 
 ---
