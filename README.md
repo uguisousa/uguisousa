@@ -1,65 +1,30 @@
-<!--
-<div> 
-   <img src="https://readme-typing-svg.demolab.com/?lines=$+Hello,+my%20name%20is+Guilherme+:)&font=Fira%20Code&center=true&width=440&height=45&color=f25c7e&vCenter=true&pause=10&size=22"/>
-</div> 
 
-<div align="center">
-  <img src="bt.png" width="250" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+meu+nome+é+Guilherme.&font=Fira+Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=10&size=22&background=141c24" />
+</p>
 
-  <br>
+<p align="center">
+  <img src="bt.png" width="200" />
+</p>
 
-  <img src="https://readme-typing-svg.demolab.com/?lines=$+Hello,+my%20name%20is+Guilherme+:]&font=Fira%20Code&center=true&width=440&height=45&color=f25c7e&vCenter=true&pause=10&size=22" alt="Typing SVG" />
--->
+---
 
-
-
-
-
-
-
-<details><summary><samp>Click here</samp></summary>
+<details>
+<summary><samp>Ver habilidades e tecnologias</samp></summary>
 
 ```rust
- 👋 Opa
+Habilidades
 
- 🧠 Habilidades e Tecnologias
+Front-end: HTML, CSS, JavaScript, Bootstrap  
+Back-end: C# (iniciante), ASP.NET  
+Banco de Dados: SQL  
+Ferramentas: Visual Studio, Eclipse, Git, GitHub  
+Design Gráfico: Experiência com apps mobile  
+Sistemas: Linux e Windows  
+Extras: Noções de hospedagem, bots e interfaces web
 
-- 🎨 Front-end: HTML, CSS, JavaScript, Bootstrap  
-- 🧩 Back-end: C# (iniciante), ASP.NET  
-- 🗃️ Banco de Dados: SQL  
-- 💻 Ferramentas: Visual Studio, Eclipse, Git, GitHub  
-- 🖌️ Design Gráfico: Experiência com apps de design mobile  
-- 🐧 Linux e Windows (ambiente de desenvolvimento)  
-- 🌐 Noções de hospedagem e estrutura de sites  
-- 📱 Interesse em bots, automações e interfaces web
+Estudando agora
 
- 🚀 Em progresso
-
-Atualmente, estou estudando mais sobre:
 - ASP.NET com banco de dados
 - JavaScript avançado e integração com APIs
 - Projetos práticos full-stack
-
-
-```
-
-<img src="https://img.shields.io/badge/Status-Aprendendo%20ASP.NET-blue?style=for-the-badge" />
-
-<!--
-<a href="https://github.com/uguisousa">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&count_private=true&layout=compact&theme=transparent&langs_count=8&hide_border=true&bg_color=141c24&title_color=ffffff&text_color=ffffff&custom_title=Linguagens" />
-   <img src="https://github-readme-stats.vercel.app/api?username=uguisousa&show_icons=true&theme=transparent&hide_border=true&bg_color=141c24&title_color=ffffff&text_color=ffffff" />
- </a>
-  -->
-![Snake animation](github-user-contribution.svg)
-
-<br>
-
-
-
-
-
-
-
-
-
