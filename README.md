@@ -6,7 +6,7 @@
 
 ---
 
-### 🧠 Sobre mim
+### 🪪 Sobre mim
 
 Atualmente curso Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web. Tenho familiaridade com as principais tecnologias de front-end e estou expandindo meus conhecimentos em back-end, banco de dados e integração com APIs. Busco constantemente aplicar o que aprendo em projetos práticos, com interesse em soluções eficientes e bem estruturadas.
 
@@ -34,7 +34,8 @@ Tenho experiência com ferramentas de versionamento, ambientes Linux e Windows, 
 
 ---
 
-<img src="https://img.shields.io/badge/Status-Aprendizado%20Contínuo-141c24?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=1f2d3d&color=f25c7e" />
+[![Website](https://img.shields.io/badge/-Website-141c24?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://ogui.xyz)
+
 
 ---
 
