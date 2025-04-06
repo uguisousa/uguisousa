@@ -1,5 +1,10 @@
-<img src="linux-computer.gif" width="20">
-<img src="https://readme-typing-svg.demolab.com/?lines=Olá,+sou+o+Guilherme+Santos.;Desenvolvedor+em+formação+com+foco+Web.&center=false&width=480&height=40&font=Fira+Code&size=20&pause=1000&color=F25C7E&vCenter=true&background=141c24" />
+<table>
+  <tr>
+    <td><img src="linux-computer.gif" width="70" /></td>
+    <td><img src="https://readme-typing-svg.demolab.com/?lines=Olá,+sou+o+Guilherme+Santos.;Desenvolvedor+em+formação+com+foco+Web.&center=false&width=480&height=40&font=Fira+Code&size=20&pause=1000&color=F25C7E&vCenter=true&background=141c24" /></td>
+  </tr>
+</table>
+
 
 <details>
 <summary><samp>Ver habilidades e tecnologias</samp></summary>
