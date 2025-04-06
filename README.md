@@ -35,8 +35,6 @@ Tenho experiência com ferramentas de versionamento, ambientes Linux e Windows, 
 
 ---
 
- 🌐 Meu Website
-
 Site pessoal criado com inspiração no visual do **Visual Studio Code (VSCode)**.  
 Clique abaixo para visitar:
 
