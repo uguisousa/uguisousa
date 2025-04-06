@@ -44,15 +44,12 @@ Atualmente, estou estudando mais sobre:
 ```
 
 
-
-   <a href="https://github.com/uguisousa">
+<!--
+<a href="https://github.com/uguisousa">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&count_private=true&layout=compact&theme=transparent&langs_count=8&hide_border=true&bg_color=141c24&title_color=ffffff&text_color=ffffff&custom_title=Linguagens" />
-      <img src="https://github-readme-stats.vercel.app/api?username=uguisousa&show_icons=true&theme=transparent&hide_border=true&bg_color=141c24&title_color=ffffff&text_color=ffffff" />
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=uguisousa&bg_color=141c24&color=ffffff&line=00bfff&point=ffffff&hide_border=true" />
-
-
-  </a>
-  
+   <img src="https://github-readme-stats.vercel.app/api?username=uguisousa&show_icons=true&theme=transparent&hide_border=true&bg_color=141c24&title_color=ffffff&text_color=ffffff" />
+ </a>
+  -->
 ![Snake animation](github-user-contribution.svg)
 
 <br>
