@@ -1,6 +1,5 @@
 <img src="linux-computer.gif" width="60" />&nbsp;&nbsp;
-<img src="https://readme-typing-svg.demolab.com/?lines=Olá,+sou+o+Guilherme+Santos.;Desenvolvedor+em+formação+com+foco+Web.&center=false&width=480&height=40&font=Fira+Code&size=20&pause=1000&color=FFC107&vCenter=true&background=141c24" />
-
+<img src="https://readme-typing-svg.demolab.com/?lines=Olá,+sou+o+Guilherme+Santos.;Desenvolvedor+em+formação+com+foco+Web.&center=false&width=480&height=40&font=Fira+Code&size=20&pause=1000&color=FFB300&vCenter=true&background=141c24" />
 
 
 <details>
