@@ -43,6 +43,7 @@ Atualmente, estou estudando mais sobre:
 
 ```
 
+<img src="https://img.shields.io/badge/Status-Aprendendo%20ASP.NET-blue?style=for-the-badge" />
 
 <!--
 <a href="https://github.com/uguisousa">
