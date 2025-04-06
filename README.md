@@ -43,7 +43,7 @@ Atualmente, estou estudando mais sobre:
 
 
    <a href="https://github.com/uguisousa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&count_private=true&layout=compact&theme=transparent&langs_count=8&hide_border=true&bg_color=141c24&title_color=ffa500&text_color=ffffff&custom_title=Linguagens+Mais+Usadas" />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&count_private=true&layout=compact&theme=transparent&langs_count=8&hide_border=true&bg_color=141c24&title_color=ffa600a9&text_color=ffffff&custom_title=Linguagens+mais+Usadas" />
   </a>
 
 
