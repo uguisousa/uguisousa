@@ -31,7 +31,7 @@
 - 🖌️ Design Gráfico: Experiência com apps de design mobile  
 - 🐧 Linux e Windows (ambiente de desenvolvimento)  
 - 🌐 Noções de hospedagem e estrutura de sites  
-- 📱 Interesse em bots para Discord, automações e interfaces web
+- 📱 Interesse em bots, automações e interfaces web
 
  🚀 Em progresso
 
