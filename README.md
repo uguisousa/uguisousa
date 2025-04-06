@@ -42,7 +42,7 @@ Tenho experiência com ferramentas de versionamento, ambientes Linux e Windows, 
 <!-- Estatísticas do GitHub -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&layout=compact&theme=transparent&langs_count=6&hide_border=true&bg_color=141c24&title_color=f25c7e&text_color=ffffff&custom_title=Linguagens+usadas" />
-
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=uguisousa&show_icons=true&theme=transparent&hide_border=true&bg_color=141c24&title_color=f25c7e&text_color=ffffff" />
 
 
