@@ -11,7 +11,8 @@
 
 
 
-![Snake gif](https://github.com/uguisousa/uguisousa/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](github-user-contribution.svg)
+
 
 
 
