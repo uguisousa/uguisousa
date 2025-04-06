@@ -3,11 +3,13 @@
    <img src="https://readme-typing-svg.demolab.com/?lines=$+Hello,+my%20name%20is+Guilherme+:)&font=Fira%20Code&center=true&width=440&height=45&color=f25c7e&vCenter=true&pause=10&size=22"/>
 </div> -->
 
-<div aling="center">
-<img src="bt.png" width="250">
-</div>
+<div align="center">
+  <img src="bt.png" width="250" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=$+Hello,+my%20name%20is+Guilherme+:]&font=Fira%20Code&center=true&width=440&height=45&color=f25c7e&vCenter=true&pause=10&size=22)
+  <br>
+
+  <img src="https://readme-typing-svg.demolab.com/?lines=$+Hello,+my%20name%20is+Guilherme+:]&font=Fira%20Code&center=true&width=440&height=45&color=f25c7e&vCenter=true&pause=10&size=22" alt="Typing SVG" />
+</div>
 
 
 ![Snake animation](github-user-contribution.svg)
