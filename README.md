@@ -1,30 +1,46 @@
+<!-- Animação de digitação -->
+<img src="https://readme-typing-svg.demolab.com/?lines=Olá,+sou+Guilherme+Santos.;Desenvolvedor+em+formação+com+foco+em+Web.&center=false&width=480&height=40&font=Fira+Code&size=20&pause=1000&color=F25C7E&vCenter=true&background=141c24" />
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+meu+nome+é+Guilherme.&font=Fira+Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=10&size=22&background=141c24" />
-</p>
+---
 
-<p>
-  <img src="bt.png" width="200" />
-</p>
+### 🧠 Sobre mim
+
+Atualmente curso Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web. Tenho familiaridade com as principais tecnologias de front-end e estou expandindo meus conhecimentos em back-end, banco de dados e integração com APIs. Busco constantemente aplicar o que aprendo em projetos práticos, com interesse em soluções eficientes e bem estruturadas.
+
+Tenho experiência com ferramentas de versionamento, ambientes Linux e Windows, além de conhecimentos em automações e design digital voltado à interface de usuário.
 
 
+---
 
-<details>
-<summary><samp>Ver habilidades e tecnologias</samp></summary>
+### 💼 Habilidades Técnicas
 
-```rust
-Habilidades
+**Front-end:** HTML, CSS, JavaScript, Bootstrap  
+**Back-end:** C# (iniciante), ASP.NET  
+**Banco de Dados:** SQL  
+**Ferramentas:** Visual Studio, Eclipse, Git, GitHub  
+**Sistemas:** Linux e Windows  
+**Extras:** Design gráfico mobile, noções de hospedagem, bots e interfaces web
 
-Front-end: HTML, CSS, JavaScript, Bootstrap  
-Back-end: C# (iniciante), ASP.NET  
-Banco de Dados: SQL  
-Ferramentas: Visual Studio, Eclipse, Git, GitHub  
-Design Gráfico: Experiência com apps mobile  
-Sistemas: Linux e Windows  
-Extras: Noções de hospedagem, bots e interfaces web
+---
 
-Estudando agora
+### 📚 Estudando agora
 
-- ASP.NET com banco de dados
-- JavaScript avançado e integração com APIs
+- ASP.NET com banco de dados  
+- JavaScript avançado e integração com APIs  
 - Projetos práticos full-stack
+
+---
+
+<img src="https://img.shields.io/badge/Status-Aprendizado%20Contínuo-141c24?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=1f2d3d&color=f25c7e" />
+
+---
+
+<!-- Estatísticas do GitHub -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&layout=compact&theme=transparent&langs_count=6&hide_border=true&bg_color=141c24&title_color=f25c7e&text_color=ffffff&custom_title=Linguagens+Mais+Usadas" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=uguisousa&show_icons=true&theme=transparent&hide_border=true&bg_color=141c24&title_color=f25c7e&text_color=ffffff" />
+
+---
+
+<!-- Animação da cobra -->
+<img src="github-user-contribution.svg" alt="Snake animation" />
