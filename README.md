@@ -47,6 +47,8 @@ Atualmente, estou estudando mais sobre:
 
    <a href="https://github.com/uguisousa">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguisousa&count_private=true&layout=compact&theme=transparent&langs_count=8&hide_border=true&bg_color=141c24&title_color=ffffff&text_color=ffffff&custom_title=Linguagens" />
+      <img src="https://github-readme-stats.vercel.app/api?username=uguisousa&show_icons=true&theme=transparent&hide_border=true&bg_color=141c24&title_color=ffffff&text_color=ffffff" />
+
   </a>
   
 ![Snake animation](github-user-contribution.svg)
