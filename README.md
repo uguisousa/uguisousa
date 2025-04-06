@@ -8,7 +8,7 @@
 
 ---
 
-### 🪪 Sobre mim
+### 🫡 Sobre mim
 
 Atualmente curso Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web. Tenho familiaridade com as principais tecnologias de front-end e estou expandindo meus conhecimentos em back-end, banco de dados e integração com APIs. Busco constantemente aplicar o que aprendo em projetos práticos, com interesse em soluções eficientes e bem estruturadas.
 
