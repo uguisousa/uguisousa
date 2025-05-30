@@ -2,7 +2,7 @@
 > I'm Guilherme Sousa — a Web Developer.  
 > I specialize in creating clean and efficient web experiences.  
 > Here's my résumé: [résumé](#)  
-> Check out my personal website: [personal website](https://vscodeport.netlify.app/)  
+> Check out my personal website: [personal website](https://guixyz.netlify.app/)  
 > Contact me for any web development projects or collaborations.  
 
 Find me on:  
