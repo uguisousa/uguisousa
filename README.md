@@ -17,7 +17,3 @@ Find me on:
 - [LinkedIn](https://linkedin.com/in/uguisousa)  
 
 </div>
-
-  <a href="https://moonphase.guide/">
-    <img src="https://moonphase.guide/module/MU2JPTFA4M0lQdkY4YnNwVGFua1gxVWV3MzZZUzVrVjdKTFVVcHoxS3QyQlVOQjlIUlBhWGhXbWFRVkhCSjBZbnFuemJpdnVSK1VEVHd4NnpSbjluaTUyQUJmbDdKZmw4ZUdqZ3FQck11dDg9.png" width="350">
-  </a>
