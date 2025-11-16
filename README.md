@@ -6,13 +6,14 @@
 **Contact me** for any web development projects or collaborations.
 
  
-
 Find me on:
 - <code>[GitLab](https://gitlab.com/uguisousa)</code>  
 - <code>[LinkedIn](https://linkedin.com/in/uguisousa)</code>  
 
-<samp>
+<br>
+
+Skills
 
  [![Skills](https://skillicons.dev/icons?i=html,css,js,firebase,figma,bootstrap,linux,netlify,c)](https://github.com/uguisousa)
 
-</samp>
+
