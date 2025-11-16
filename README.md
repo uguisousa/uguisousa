@@ -1,9 +1,8 @@
 <div align="">
   
 
-<details>
-  <summary>👋 Hey there — Click to expand</summary>
 
+👋 Hey there 
   <br>
 
   > I'm **Guilherme Sousa** — a Web Developer.  
@@ -11,7 +10,7 @@
   **Check out my personal website:** [personal website](https://guixyz.netlify.app/)  
   **Contact me** for any web development projects or collaborations.
 
-</details>
+
  
 
 Find me on:  
