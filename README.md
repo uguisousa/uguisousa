@@ -11,7 +11,6 @@ Find me on:
 - <code>[LinkedIn](https://linkedin.com/in/uguisousa)</code>
 - <code>[uguisousa@proton.me](uguisousa@proton.me)</code> 
 - <code>[Gui Arts Web](https://guiarts.site)</code>  
-uguisousa@proton.me
 
 <details>
   <summary>Skills <samp>(click)</samp></summary>
