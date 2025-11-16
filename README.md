@@ -15,8 +15,6 @@ Find me on:
 <details>
   <summary>Skills</summary>
 
-  <br>
-
   [![Skills](https://skillicons.dev/icons?i=html,css,js,firebase,figma,bootstrap,linux,netlify,c)](https://github.com/uguisousa)
 
 </details>
