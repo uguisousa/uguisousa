@@ -17,6 +17,6 @@ Find me on:
 
  <br>
 
-  [![Skills](https://skillicons.dev/icons?i=html,css,js,firebase,figma,bootstrap,linux,windows,netlify,c)](https://github.com/uguisousa)
+  [![Skills](https://skillicons.dev/icons?i=html,css,js,firebase,figma,bootstrap,linux,windows,mega,git,netlify,c)](https://github.com/uguisousa)
 
 </details>
