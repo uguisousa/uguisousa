@@ -1,6 +1,7 @@
 <div align="">
   
-
+<samp>
+  
 👋 Hey there
 
 
@@ -15,5 +16,7 @@
 Find me on:  
 - [GitLab](https://gitlab.com/uguisousa)  
 - [LinkedIn](https://linkedin.com/in/uguisousa)  
+
+</samp>
 
 </div>
