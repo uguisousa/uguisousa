@@ -1,7 +1,6 @@
 👋 Hey there
 
 > I'm **Guilherme Sousa** — a Web Developer.  
-
 **E-mail:** <code><a href="mailto:uguisousa@proton.me">uguisousa@proton.me</a></code>  
 
 **Here's my résumé:** <code>[résumé](https://guiarts.site/guilherme)</code>  
