@@ -18,3 +18,5 @@ Find me on:
 - [LinkedIn](https://linkedin.com/in/uguisousa)  
 
 </div>
+
+<img src="https://your-moon-api.vercel.app/api/moon" alt="Moon phase">
