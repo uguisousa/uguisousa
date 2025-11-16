@@ -3,7 +3,6 @@
 
 👋 Hey there
 
-  <br>
 
   > I'm **Guilherme Sousa** — a Web Developer.  
   **Here's my résumé:** [résumé](https://guiarts.site/guilherme)  
