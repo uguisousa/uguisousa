@@ -2,11 +2,8 @@
 
 > I'm **Guilherme Sousa** — a Web Developer.  
 **E-mail:** <code><a href="mailto:uguisousa@proton.me">uguisousa@proton.me</a></code>  
-
 **Here's my résumé:** <code>[résumé](https://guiarts.site/guilherme)</code>  
-
 **Check out my personal website:** <code>[personal website](https://guixyz.netlify.app/)</code>  
-
 **Contact me** for any web development projects or collaborations.
 
 
