@@ -20,7 +20,7 @@ Find me on:
 
  <br>
 
+</details>
+
  [![ChatTempoReal](https://github-readme-stats.vercel.app/api/pin/?username=uguisousa&repo=ChatTempoReal&theme=holi)](https://github.com/uguisousa/ChatTempoReal)
 
-
-</details>
