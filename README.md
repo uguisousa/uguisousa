@@ -1,4 +1,4 @@
-<img src="guixl.jpg">
+<img src="guixl.png">
 
 👋 Hey there  
 > I'm Guilherme Sousa — a Web Developer.  
