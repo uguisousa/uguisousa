@@ -1,6 +1,5 @@
 <div align="">
   
-<a href="https://guixl.netlify.app/"><img width="140" src="guixl-png.png"></a>
 
 <details>
   <summary>👋 Hey there — Click to expand</summary>
