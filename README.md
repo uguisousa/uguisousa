@@ -18,7 +18,7 @@ Find me on:
 
   [![Skills](https://skillicons.dev/icons?i=html,css,js,firebase,figma,bootstrap,linux,windows,git,netlify,c)](https://github.com/uguisousa)
 
-  - Project
+  Project
  [![ChatTempoReal](https://github-readme-stats.vercel.app/api/pin/?username=uguisousa&repo=ChatTempoReal&theme=holi)](https://github.com/uguisousa/ChatTempoReal)
     
 
