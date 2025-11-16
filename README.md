@@ -13,7 +13,7 @@ Find me on:
 
 
 <details>
-  <summary>Skills (click)</summary>
+  <summary>Skills <samp>(click)</samp></summary>
 
  <br>
 
