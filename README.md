@@ -9,8 +9,8 @@
 Find me on:
 - <code>[GitLab](https://gitlab.com/uguisousa)</code>  
 - <code>[LinkedIn](https://linkedin.com/in/uguisousa)</code>
+- <code>[Gui Arts Web](https://guiarts.site)</code>
 - <code>[uguisousa@proton.me](uguisousa@proton.me)</code> 
-- <code>[Gui Arts Web](https://guiarts.site)</code>  
 
 <details>
   <summary>Skills <samp>(click)</samp></summary>
