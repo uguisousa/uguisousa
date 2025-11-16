@@ -2,7 +2,7 @@
   
 
 
-👋 Hey there <img src="linux-computer.gif" width="60">
+👋 Hey there <img src="linux-computer.gif" width="20">
   <br>
 
   > I'm **Guilherme Sousa** — a Web Developer.  
