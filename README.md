@@ -6,8 +6,6 @@
 **Check out my personal website:** <code>[personal website](https://guixyz.netlify.app/)</code>  
 **Contact me** for any web development projects or collaborations.
 
-
- 
 Find me on:
 - <code>[GitLab](https://gitlab.com/uguisousa)</code>  
 - <code>[LinkedIn](https://linkedin.com/in/uguisousa)</code>
