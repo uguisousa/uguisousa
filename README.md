@@ -1,3 +1,5 @@
+<div aling="center">
+  
 <img src="guixl.png">
 
 👋 Hey there  
@@ -10,3 +12,4 @@ Find me on:
 - [GitLab](https://gitlab.com/uguisousa)  
 - [LinkedIn](https://linkedin.com/in/uguisousa)  
 
+</div>
