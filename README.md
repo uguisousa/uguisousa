@@ -1,6 +1,6 @@
 <div align="">
   
-<img width="40" src="guixl-png.png">
+<img width="140" src="guixl-png.png">
 
 👋 Hey there  
 > I'm Guilherme Sousa — a Web Developer.  
