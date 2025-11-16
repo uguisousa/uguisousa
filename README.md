@@ -12,5 +12,7 @@ Find me on:
 - <code>[LinkedIn](https://linkedin.com/in/uguisousa)</code>  
 
 <samp>
-[![Skills](https://skillicons.dev/icons?i=html,css,js,firebase,figma,bootstrap,linux,netlify,c)](https://github.com/uguisousa)
+
+ [![Skills](https://skillicons.dev/icons?i=html,css,js,firebase,figma,bootstrap,linux,netlify,c)](https://github.com/uguisousa)
+
 </samp>
