@@ -2,7 +2,7 @@
   
 
 
-<img src="linux-computer.gif" width="30"> 
+
   <br>
 
   > I'm **Guilherme Sousa** — a Web Developer.  
