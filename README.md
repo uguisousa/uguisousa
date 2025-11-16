@@ -12,7 +12,7 @@
 
  
 
-Find me on:  
+<samp> Find me on: </samp>  
 - <code> [GitLab](https://gitlab.com/uguisousa) </code>  
 - <code> [LinkedIn](https://linkedin.com/in/uguisousa) </code>  
 
