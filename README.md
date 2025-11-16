@@ -13,7 +13,7 @@
  
 
 Find me on:  
-- [GitLab](https://gitlab.com/uguisousa)  
+- <code> [GitLab](https://gitlab.com/uguisousa) </code>  
 - [LinkedIn](https://linkedin.com/in/uguisousa)  
 
 
