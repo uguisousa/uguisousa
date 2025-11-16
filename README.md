@@ -12,9 +12,11 @@ Find me on:
 
 <br>
 
-<ul></ul>
+<details>
+  <summary>Skills</summary>
 
-Skills
-[![Skills](https://skillicons.dev/icons?i=html,css,js,firebase,figma,bootstrap,linux,netlify,c)](https://github.com/uguisousa)
+  <br>
 
+  [![Skills](https://skillicons.dev/icons?i=html,css,js,firebase,figma,bootstrap,linux,netlify,c)](https://github.com/uguisousa)
 
+</details>
